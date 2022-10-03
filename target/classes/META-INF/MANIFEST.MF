@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: sidha
+Build-Jdk: 17.0.4.1
+Implementation-Title: codeboard-aws
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codeboard
+Implementation-URL: https://spring.io/projects/spring-boot/codeboard-aws
+Created-By: Maven Integration for Eclipse
+
